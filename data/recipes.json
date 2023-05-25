@@ -1,0 +1,45 @@
+[
+    {
+      "_id": "c8a4s2e1",
+      "recipeName": "Chicken Parmesan",
+      "recipePhoto": "https://bit.ly/41UaogH",
+      "recipeInfo": "Breaded chicken breasts topped with tomato sauce and mozzarella cheese, served over pasta.",
+      "recipePrice": 15.99
+    },
+    {
+      "_id": "q3w5e1r4",
+      "recipeName": "Sushi Rolls",
+      "recipePhoto": "https://bit.ly/41XYpOU",
+      "recipeInfo": "Japanese-style sushi rolls with various fillings such as crab, avocado, and cucumber.",
+      "recipePrice": 12.99
+    },
+    {
+      "_id": "m9n8b3v5",
+      "recipeName": "Pad Thai",
+      "recipePhoto": "https://bit.ly/44meH5J",
+      "recipeInfo": "A popular Thai stir-fried noodle dish with shrimp, tofu, bean sprouts, and peanuts.",
+      "recipePrice": 13.99
+    },
+    {
+      "_id": "p0o9i8u7",
+      "recipeName": "Beef Tacos",
+      "recipePhoto": "https://bit.ly/3HuPiND",
+      "recipeInfo": "Soft or crispy tortillas filled with seasoned ground beef, lettuce, tomato, cheese, and salsa.",
+      "recipePrice": 10.99
+    },
+    {
+      "_id": "z1x2c3v4",
+      "recipeName": "Caesar Salad",
+      "recipePhoto": "https://bit.ly/44mtoG3",
+      "recipeInfo": "A classic salad made with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+      "recipePrice": 8.99
+    },
+    {
+      "_id": "h5g4f3d2",
+      "recipeName": "Grilled Cheese",
+      "recipePhoto": "https://bit.ly/3VwVXfZ",
+      "recipeInfo": "A simple sandwich made with bread and melted cheese, often served with tomato soup.",
+      "recipePrice": 6.99
+    }
+  ]
+  

@@ -1,0 +1,668 @@
+[
+  {
+    "_id": "X2W8D4C7Z9",
+    "chefPicture": "https://bit.ly/3LenkGM",
+    "chefName": "John Doe",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 100,
+    "likes": 500,
+    "chefBio": "John Doe is a renowned chef with over 15 years of experience in the culinary industry. He specializes in Mediterranean cuisine and has won several awards for his innovative dishes.",
+    "recipes": [
+      {
+        "recipeName": "Thai Green Curry",
+        "recipePhoto": "https://bit.ly/41WT62m",
+        "ingredients": [
+          {
+            "name": "Chicken breast",
+            "quantity": "2 pieces"
+          },
+          {
+            "name": "Green curry paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Coconut milk",
+            "quantity": "1 can"
+          },
+          {
+            "name": "Bell peppers",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Carrots",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Green beans",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Basil leaves",
+            "quantity": "1/4 cup"
+          }
+        ],
+        "cookingMethod": "1. Heat the green curry paste in a wok or large saucepan over medium-high heat. Add the chicken and cook until browned. Add the coconut milk and vegetables and bring to a simmer. Cook for 10-15 minutes until the vegetables are tender. Serve with rice and garnish with basil leaves.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Mediterranean Salad",
+        "recipePhoto": "https://bit.ly/3nhZZwe",
+        "ingredients": [
+          {
+            "name": "Romaine lettuce",
+            "quantity": "1 head"
+          },
+          {
+            "name": "Tomatoes",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Cucumbers",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Red onion",
+            "quantity": "1/2 medium"
+          },
+          {
+            "name": "Kalamata olives",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Feta cheese",
+            "quantity": "1/2 cup crumbled"
+          }
+        ],
+        "cookingMethod": "1. Wash and chop the lettuce, tomatoes, and cucumbers. Slice the red onion and add to the salad. Add the olives and feta cheese. Dress with olive oil and red wine vinegar to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "recipePhoto": "https://bit.ly/42gURqN",
+        "ingredients": [
+          {
+            "name": "spaghetti",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "ground beef",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "onion",
+            "quantity": "1, chopped"
+          },
+          {
+            "name": "garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "crushed tomatoes",
+            "quantity": "1 can (28 oz)"
+          },
+          {
+            "name": "dried oregano",
+            "quantity": "1 tsp"
+          }
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. In a separate pan, brown ground beef over medium heat. Drain excess fat. Add chopped onions and minced garlic to the pan with the ground beef. Cook until onions are translucent. Add the can of crushed tomatoes and dried oregano to the pan. Stir to combine. Reduce heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally. Serve the bolognese sauce over the cooked spaghetti.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "_id": "Y5Z9A1B8C6",
+    "chefPicture": "https://bit.ly/3NvF17B",
+    "chefName": "Jane Smith",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 80,
+    "likes": 400,
+    "chefBio": "Jane Smith is a highly skilled chef with 10 years of experience in cooking. She is known for her fusion dishes that combine different cuisines from around the world.",
+    "recipes": [
+      {
+        "recipeName": "Thai Green Curry",
+        "recipePhoto": "https://bit.ly/41WT62m",
+        "ingredients": [
+          {
+            "name": "Chicken breast",
+            "quantity": "2 pieces"
+          },
+          {
+            "name": "Green curry paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Coconut milk",
+            "quantity": "1 can"
+          },
+          {
+            "name": "Bell peppers",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Carrots",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Green beans",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Basil leaves",
+            "quantity": "1/4 cup"
+          }
+        ],
+        "cookingMethod": "1. Heat the green curry paste in a wok or large saucepan over medium-high heat. Add the chicken and cook until browned. Add the coconut milk and vegetables and bring to a simmer. Cook for 10-15 minutes until the vegetables are tender. Serve with rice and garnish with basil leaves.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Mediterranean Salad",
+        "recipePhoto": "https://bit.ly/3nhZZwe",
+        "ingredients": [
+          {
+            "name": "Romaine lettuce",
+            "quantity": "1 head"
+          },
+          {
+            "name": "Tomatoes",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Cucumbers",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Red onion",
+            "quantity": "1/2 medium"
+          },
+          {
+            "name": "Kalamata olives",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Feta cheese",
+            "quantity": "1/2 cup crumbled"
+          }
+        ],
+        "cookingMethod": "1. Wash and chop the lettuce, tomatoes, and cucumbers. Slice the red onion and add to the salad. Add the olives and feta cheese. Dress with olive oil and red wine vinegar to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "recipePhoto": "https://bit.ly/42gURqN",
+        "ingredients": [
+          {
+            "name": "spaghetti",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "ground beef",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "onion",
+            "quantity": "1, chopped"
+          },
+          {
+            "name": "garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "crushed tomatoes",
+            "quantity": "1 can (28 oz)"
+          },
+          {
+            "name": "dried oregano",
+            "quantity": "1 tsp"
+          }
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. In a separate pan, brown ground beef over medium heat. Drain excess fat. Add chopped onions and minced garlic to the pan with the ground beef. Cook until onions are translucent. Add the can of crushed tomatoes and dried oregano to the pan. Stir to combine. Reduce heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally. Serve the bolognese sauce over the cooked spaghetti.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "_id": "T7U2E1F9G3",
+    "chefPicture": "https://bit.ly/3nbUz5X",
+    "chefName": "David Lee",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 150,
+    "likes": 700,
+    "chefBio": "David Lee is a veteran chef with over 20 years of experience. He has worked in some of the best restaurants in the world and is a master of French cuisine.",
+    "recipes": [
+      {
+        "recipeName": "Thai Green Curry",
+        "recipePhoto": "https://bit.ly/41WT62m",
+        "ingredients": [
+          {
+            "name": "Chicken breast",
+            "quantity": "2 pieces"
+          },
+          {
+            "name": "Green curry paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Coconut milk",
+            "quantity": "1 can"
+          },
+          {
+            "name": "Bell peppers",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Carrots",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Green beans",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Basil leaves",
+            "quantity": "1/4 cup"
+          }
+        ],
+        "cookingMethod": "1. Heat the green curry paste in a wok or large saucepan over medium-high heat. Add the chicken and cook until browned. Add the coconut milk and vegetables and bring to a simmer. Cook for 10-15 minutes until the vegetables are tender. Serve with rice and garnish with basil leaves.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Mediterranean Salad",
+        "recipePhoto": "https://bit.ly/3nhZZwe",
+        "ingredients": [
+          {
+            "name": "Romaine lettuce",
+            "quantity": "1 head"
+          },
+          {
+            "name": "Tomatoes",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Cucumbers",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Red onion",
+            "quantity": "1/2 medium"
+          },
+          {
+            "name": "Kalamata olives",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Feta cheese",
+            "quantity": "1/2 cup crumbled"
+          }
+        ],
+        "cookingMethod": "1. Wash and chop the lettuce, tomatoes, and cucumbers. Slice the red onion and add to the salad. Add the olives and feta cheese. Dress with olive oil and red wine vinegar to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "recipePhoto": "https://bit.ly/42gURqN",
+        "ingredients": [
+          {
+            "name": "spaghetti",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "ground beef",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "onion",
+            "quantity": "1, chopped"
+          },
+          {
+            "name": "garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "crushed tomatoes",
+            "quantity": "1 can (28 oz)"
+          },
+          {
+            "name": "dried oregano",
+            "quantity": "1 tsp"
+          }
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. In a separate pan, brown ground beef over medium heat. Drain excess fat. Add chopped onions and minced garlic to the pan with the ground beef. Cook until onions are translucent. Add the can of crushed tomatoes and dried oregano to the pan. Stir to combine. Reduce heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally. Serve the bolognese sauce over the cooked spaghetti.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "_id": "H2J5K9L4M1",
+    "chefPicture": "https://bit.ly/41QZNml",
+    "chefName": "Sara Johnson",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 60,
+    "likes": 300,
+    "chefBio": "Sara Johnson is a rising star in the culinary world with 8 years of experience. She is known for her innovative vegetarian dishes that are both healthy and delicious.",
+    "recipes": [
+      {
+        "recipeName": "Thai Green Curry",
+        "recipePhoto": "https://bit.ly/41WT62m",
+        "ingredients": [
+          {
+            "name": "Chicken breast",
+            "quantity": "2 pieces"
+          },
+          {
+            "name": "Green curry paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Coconut milk",
+            "quantity": "1 can"
+          },
+          {
+            "name": "Bell peppers",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Carrots",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Green beans",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Basil leaves",
+            "quantity": "1/4 cup"
+          }
+        ],
+        "cookingMethod": "1. Heat the green curry paste in a wok or large saucepan over medium-high heat. Add the chicken and cook until browned. Add the coconut milk and vegetables and bring to a simmer. Cook for 10-15 minutes until the vegetables are tender. Serve with rice and garnish with basil leaves.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Mediterranean Salad",
+        "recipePhoto": "https://bit.ly/3nhZZwe",
+        "ingredients": [
+          {
+            "name": "Romaine lettuce",
+            "quantity": "1 head"
+          },
+          {
+            "name": "Tomatoes",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Cucumbers",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Red onion",
+            "quantity": "1/2 medium"
+          },
+          {
+            "name": "Kalamata olives",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Feta cheese",
+            "quantity": "1/2 cup crumbled"
+          }
+        ],
+        "cookingMethod": "1. Wash and chop the lettuce, tomatoes, and cucumbers. Slice the red onion and add to the salad. Add the olives and feta cheese. Dress with olive oil and red wine vinegar to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "recipePhoto": "https://bit.ly/42gURqN",
+        "ingredients": [
+          {
+            "name": "spaghetti",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "ground beef",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "onion",
+            "quantity": "1, chopped"
+          },
+          {
+            "name": "garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "crushed tomatoes",
+            "quantity": "1 can (28 oz)"
+          },
+          {
+            "name": "dried oregano",
+            "quantity": "1 tsp"
+          }
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. In a separate pan, brown ground beef over medium heat. Drain excess fat. Add chopped onions and minced garlic to the pan with the ground beef. Cook until onions are translucent. Add the can of crushed tomatoes and dried oregano to the pan. Stir to combine. Reduce heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally. Serve the bolognese sauce over the cooked spaghetti.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "_id": "N9P2Q4R8S7",
+    "chefPicture": "https://bit.ly/44gkKcc",
+    "chefName": "Michael Brown",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 90,
+    "likes": 450,
+    "chefBio": "Michael Brown is a passionate chef with 12 years of experience. He specializes in BBQ and has won several competitions for his mouth-watering dishes.",
+    "recipes": [
+      {
+        "recipeName": "Thai Green Curry",
+        "recipePhoto": "https://bit.ly/41WT62m",
+        "ingredients": [
+          {
+            "name": "Chicken breast",
+            "quantity": "2 pieces"
+          },
+          {
+            "name": "Green curry paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Coconut milk",
+            "quantity": "1 can"
+          },
+          {
+            "name": "Bell peppers",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Carrots",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Green beans",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Basil leaves",
+            "quantity": "1/4 cup"
+          }
+        ],
+        "cookingMethod": "1. Heat the green curry paste in a wok or large saucepan over medium-high heat. Add the chicken and cook until browned. Add the coconut milk and vegetables and bring to a simmer. Cook for 10-15 minutes until the vegetables are tender. Serve with rice and garnish with basil leaves.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Mediterranean Salad",
+        "recipePhoto": "https://bit.ly/3nhZZwe",
+        "ingredients": [
+          {
+            "name": "Romaine lettuce",
+            "quantity": "1 head"
+          },
+          {
+            "name": "Tomatoes",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Cucumbers",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Red onion",
+            "quantity": "1/2 medium"
+          },
+          {
+            "name": "Kalamata olives",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Feta cheese",
+            "quantity": "1/2 cup crumbled"
+          }
+        ],
+        "cookingMethod": "1. Wash and chop the lettuce, tomatoes, and cucumbers. Slice the red onion and add to the salad. Add the olives and feta cheese. Dress with olive oil and red wine vinegar to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "recipePhoto": "https://bit.ly/42gURqN",
+        "ingredients": [
+          {
+            "name": "spaghetti",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "ground beef",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "onion",
+            "quantity": "1, chopped"
+          },
+          {
+            "name": "garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "crushed tomatoes",
+            "quantity": "1 can (28 oz)"
+          },
+          {
+            "name": "dried oregano",
+            "quantity": "1 tsp"
+          }
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. In a separate pan, brown ground beef over medium heat. Drain excess fat. Add chopped onions and minced garlic to the pan with the ground beef. Cook until onions are translucent. Add the can of crushed tomatoes and dried oregano to the pan. Stir to combine. Reduce heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally. Serve the bolognese sauce over the cooked spaghetti.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "_id": "E5V6W3X1Y9",
+    "chefPicture": "https://bit.ly/3njRrVu",
+    "chefName": "Emily Davis",
+    "yearsOfExperience": 6,
+    "numberOfRecipes": 50,
+    "likes": 250,
+    "chefBio": "Emily Davis is a young and talented chef with 6 years of experience. She is known for her creative desserts that are both visually stunning and delicious.",
+    "recipes": [
+      {
+        "recipeName": "Thai Green Curry",
+        "recipePhoto": "https://bit.ly/41WT62m",
+        "ingredients": [
+          {
+            "name": "Chicken breast",
+            "quantity": "2 pieces"
+          },
+          {
+            "name": "Green curry paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Coconut milk",
+            "quantity": "1 can"
+          },
+          {
+            "name": "Bell peppers",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Carrots",
+            "quantity": "1/2 cup sliced"
+          },
+          {
+            "name": "Green beans",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Basil leaves",
+            "quantity": "1/4 cup"
+          }
+        ],
+        "cookingMethod": "1. Heat the green curry paste in a wok or large saucepan over medium-high heat. Add the chicken and cook until browned. Add the coconut milk and vegetables and bring to a simmer. Cook for 10-15 minutes until the vegetables are tender. Serve with rice and garnish with basil leaves.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Mediterranean Salad",
+        "recipePhoto": "https://bit.ly/3nhZZwe",
+        "ingredients": [
+          {
+            "name": "Romaine lettuce",
+            "quantity": "1 head"
+          },
+          {
+            "name": "Tomatoes",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Cucumbers",
+            "quantity": "2 medium"
+          },
+          {
+            "name": "Red onion",
+            "quantity": "1/2 medium"
+          },
+          {
+            "name": "Kalamata olives",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Feta cheese",
+            "quantity": "1/2 cup crumbled"
+          }
+        ],
+        "cookingMethod": "1. Wash and chop the lettuce, tomatoes, and cucumbers. Slice the red onion and add to the salad. Add the olives and feta cheese. Dress with olive oil and red wine vinegar to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "recipePhoto": "https://bit.ly/42gURqN",
+        "ingredients": [
+          {
+            "name": "spaghetti",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "ground beef",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "onion",
+            "quantity": "1, chopped"
+          },
+          {
+            "name": "garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "crushed tomatoes",
+            "quantity": "1 can (28 oz)"
+          },
+          {
+            "name": "dried oregano",
+            "quantity": "1 tsp"
+          }
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. In a separate pan, brown ground beef over medium heat. Drain excess fat. Add chopped onions and minced garlic to the pan with the ground beef. Cook until onions are translucent. Add the can of crushed tomatoes and dried oregano to the pan. Stir to combine. Reduce heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally. Serve the bolognese sauce over the cooked spaghetti.",
+        "rating": 4.5
+      }
+    ]
+  }
+]
